@@ -1,1 +1,1 @@
-# ignition_for-fedora
+# Config for ignition file for Fedora.
